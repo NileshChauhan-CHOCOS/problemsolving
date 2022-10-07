@@ -10,7 +10,6 @@ public class DBConnection {
     private final String password;
 
     private static DBConnection instance=null;
-    private static final ReentrantLock lock = new ReentrantLock();
     private DBConnection(String userName, String password, String port){
         this.userName=userName;
         this.password=password;
@@ -18,11 +17,11 @@ public class DBConnection {
     }
     public static DBConnection getInstance(String userName, String password, String port){
         if (instance == null){
-                lock.lock();
-                if(instance == null){
-                    instance = new DBConnection(userName, password, port);
-                }
-                lock.unlock();
+               synchronized (DBConnection.class){
+                   if(instance == null){
+                       instance = new DBConnection(userName, password, port);
+                   }
+               }
         }
         return instance;
     }

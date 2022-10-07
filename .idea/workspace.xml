@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab8eb37f-8e65-41f5-ac1b-9d0fdfa1e545" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/practice/singleton/threadsafe/DataBaseConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/practice/singleton/threadsafe/and/performance/DBConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/mutlithread/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/practice/mutlithread/practice1/ThreadClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/practice/singleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/singleton/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/singleton/threadsafe/DataBaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/singleton/threadsafe/DataBaseConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/practice/singleton/threadsafe/and/performance/DBConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/practice/singleton/threadsafe/and/performance/DBConnection.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.com.practice.mutlithread.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.singleton.Main" />
       <module name="problemsolving" />
@@ -60,8 +61,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.practice.mutlithread.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.mutlithread.Main" />
+      <module name="problemsolving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.mutlithread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.practice.mutlithread.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -74,7 +89,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663870949223</updated>
-      <workItem from="1663870950974" duration="4578000" />
+      <workItem from="1663870950974" duration="5671000" />
+      <workItem from="1665168676999" duration="547000" />
     </task>
     <servers />
   </component>

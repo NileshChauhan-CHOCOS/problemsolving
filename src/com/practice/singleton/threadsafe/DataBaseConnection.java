@@ -1,5 +1,6 @@
 package com.practice.singleton.threadsafe;
 
+// Not work in concurrent environment
 public class DataBaseConnection {
     private String port=null;
     private String userName=null;
