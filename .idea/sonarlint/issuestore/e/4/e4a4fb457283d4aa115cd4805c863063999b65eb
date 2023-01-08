@@ -1,0 +1,19 @@
+
+@
+java:S2885	"%Make "calendar" an instance variable.(ÖÉºøÿÿÿÿ
+A
+java:S3985"+Remove this unused private "Message" class.(ƒã·Ï
+H
+java:S1068"-Remove this unused "channelId" private field.(’‰Û“üÿÿÿÿ
+?
+java:S1068")Remove this unused "appId" private field.(‘†¯ğ
+B
+java:S1068"'Remove this unused "key" private field.(şÅ¨ùÿÿÿÿ
+F
+java:S1068"+Remove this unused "options" private field.(¦ñÑ¥ûÿÿÿÿ
+D
+java:S1068")Remove this unused "isDoc" private field.(¥õÜÜıÿÿÿÿ
+C
+java:S1068"(Remove this unused "type" private field.(–î†ûÿÿÿÿ
+C
+java:S1068"(Remove this unused "date" private field.(§ó®Øıÿÿÿÿ

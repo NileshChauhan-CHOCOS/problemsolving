@@ -1,0 +1,17 @@
+
+b
+java:S1192O"GDefine a constant instead of duplicating this literal "Binary" 3 times.(üäÈıÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ë“¦
+P	java:S125"<This block of commented-out lines of code should be removed.(Ï½àE
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(ã…œ—
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ã…œ—
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(˜€Èüÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(÷ë¨‰
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(×·¹•
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(Ó¢Èôüÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(ÊÎÃÉ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(ĞóÒúøÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(ÿÌÜş
+N	java:S106U"9Replace this use of System.out or System.err by a logger.(ÌŠˆ
+V	java:S125`"<This block of commented-out lines of code should be removed.(Öºßşÿÿÿÿ
+P	java:S125s"<This block of commented-out lines of code should be removed.(¡Ù
