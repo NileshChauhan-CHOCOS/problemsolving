@@ -29,8 +29,6 @@ W
 'ProblemSolving/src/chatbot/ChatBot.java,e\4\e4a4fb457283d4aa115cd4805c863063999b65eb
 i
 9ProblemSolving/src/singleton/modelclass/DbConnection.java,d\2\d275c0dda63b49e632fe117f858e056d264f2da7
-t
-DProblemSolving/src/bitmanipulation/exception/CannotDivideByZero.java,e\9\e97b66a4f0d38070fc607bf749298f3f68a8e111
 j
 :ProblemSolving/src/compiler/design/parser/state/State.java,6\e\6ed71a0142f8f292c0f4656be2e1eb79d10775e7
 v
@@ -41,3 +39,7 @@ o
 ?ProblemSolving/src/hacerrank/fradulentnotifications/MyPair.java,1\d\1dcb770b364d2d2f7d9f78967be97b54a93a4067
 h
 8ProblemSolving/src/hacerrank/FraudulentNotification.java,6\6\665a08f70cf92781b44b114c06c1ce15a041c045
+Q
+!ProblemSolving/src/tree/Main.java,c\2\c24b2acc5b85cf13a2d192c224f52ae6424fc8e1
+h
+8ProblemSolving/src/collection/sort/enums/AppleColor.java,2\4\241df6dd5e078fcc35e178cc11310c77f60183cc
