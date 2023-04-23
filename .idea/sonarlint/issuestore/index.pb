@@ -7,10 +7,6 @@ U
 %ProblemSolving/src/generics/Main.java,1\a\1afce4aa30eeb2abb267db3487d2bccb7d9e4a93
 T
 $ProblemSolving/src/threads/Main.java,d\5\d5da95e805f444b9fb6ff2e46df94a9d989f233b
-_
-/ProblemSolving/src/generics/vehicles/Truck.java,e\9\e99d633ff2267647e98ef12df8a8f6fe146e1278
-]
--ProblemSolving/src/generics/vehicles/Bus.java,2\5\25317f094f76e2ee5f99c9f5ff5d5f96ff4dfbed
 U
 %ProblemSolving/src/model/Example.java,a\9\a98f35ef5f98660c3278056442b21f349b5e2325
 V
@@ -31,8 +27,6 @@ o
 ?ProblemSolving/src/bitmanipulation/divide/two/numbers/Main.java,6\4\642bfda2b4212e6f35778fc1866e31661df480f4
 W
 'ProblemSolving/src/chatbot/ChatBot.java,e\4\e4a4fb457283d4aa115cd4805c863063999b65eb
-g
-7ProblemSolving/src/process/syn/semaphore/Semaphore.java,6\0\60384ec13c01990cb0ea3c8f9781d5dbd4c51892
 i
 9ProblemSolving/src/singleton/modelclass/DbConnection.java,d\2\d275c0dda63b49e632fe117f858e056d264f2da7
 t
